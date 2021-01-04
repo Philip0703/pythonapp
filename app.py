@@ -1,4 +1,4 @@
-num1=35
-num2=21
+num1=int(input("Enter 1st number:"))
+num2=int(input("Enter 2nd number:"))
 num3=num1+num2
-print(num3)
+print (num3)
